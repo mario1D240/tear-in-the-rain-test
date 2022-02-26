@@ -37,6 +37,7 @@
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,Default,,,,,,,
 0,SansText,here we go.,,,,,,,
-0,EndAttack,,,,,,,,
 0,Sound,mus_zz_megalovanoia,,,,,,
+0,EndAttack,,,,,,,,
+
 
